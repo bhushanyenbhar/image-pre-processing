@@ -6,3 +6,4 @@ EXP1D : Image Normalization
 Exp1E : Edge detection of image
 Exp1F : Image Blurring
 Exp1G : Morphological Image Processing
+Exp1H : Image Shared
